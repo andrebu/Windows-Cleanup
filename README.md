@@ -43,3 +43,7 @@ Edit4: [My system with no $Windows.~BT in case you are wondering or need proof.]
 ==More Stuff==
 
 [\[Tip\] Disallow Secret “Customer Experience Improvement Program” \(CEIP\) from Collecting Information in Windows](http://www.askvg.com/how-to-disallow-secret-customer-experience-improvement-program-collecting-information-in-windows-7/) (/u/JimmysBruder) - Why? Because I didn't know about this dialog and was opt in.
+
+
+- [https://www.reddit.com/r/technology/comments/3keoau/microsoft_has_confirmed_that_they_are_downloading/cuwxpwi](::https://www.reddit.com/r/technology/comments/3keoau/microsoft_has_confirmed_that_they_are_downloading/cuwxpwi)
+- [http://techne.alaya.net/?p=12499](http://techne.alaya.net/?p=12499)
